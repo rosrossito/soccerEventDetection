@@ -1,0 +1,5 @@
+BG
+person
+sports ball
+corner
+goalpost
